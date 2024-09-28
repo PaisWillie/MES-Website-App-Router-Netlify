@@ -153,7 +153,7 @@ export default function HomePage() {
               <div className='flex h-full w-full flex-col items-center justify-end text-center uppercase'>
                 <h1 className='text-3xl font-medium md:text-5xl'>2024/25</h1>
                 <div className='mt-6 flex flex-col text-xs font-medium md:text-sm'>
-                  <p>Our next MES President</p>
+                  <p>Hello world!</p>
                   <p className='font-bold'>Alexis Moutafis-Tymcio</p>
                 </div>
               </div>
